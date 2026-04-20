@@ -4,21 +4,21 @@ Este repositório documenta a jornada completa de análise da categoria de **Per
 
 ---
 
-## 📂 Fase 1: Strategic Business Overview (Diagnóstico)
-Nesta etapa inicial, o foco foi o mapeamento macro da operação e a identificação de gargalos de rentabilidade através de dashboards interativos.
+## Fase 1: Strategic Business Overview (Diagnóstico)
+Nesta fase inicial, o objetivo foi obter uma visão ampla da operação e identificar gargalos de rentabilidade por meio de dashboards interativos.
 
 👉 **[Clique aqui para visualizar o PDF da Fase 1](./Strategic%20Business%20Overview%20Operação%20Comercial%20&%20Margem%20(Personal%20Care).pdf)**
 
 ---
 
-## 🚀 Fase 2: Strategic Action Plan (Execução & SQL)
-A segunda etapa foca na operacionalização dos insights. Utilizei **SQL e Python** para sanear dados, identificar margens críticas e estruturar as diretrizes de recuperação por região (com foco na operação da Ásia).
+## Fase 2: Strategic Action Plan (Execução & SQL)
+Nesta etapa, os insights do dashboard foram desdobrados em um plano tático. Utilizei **SQL** para identificar as operações com margens negativas e estruturar as diretrizes de recuperação, com foco na operação da Ásia.
 
 👉 **[Clique aqui para visualizar o PDF da Fase 2](./Strategic%20Action%20Plan%20Operação%20Comercial%20&%20Margem.pdf)**
 
 ---
 
-## 📊 Recursos Técnicos
+## Recursos Técnicos
 * 🛠️ **Dashboard Power BI:** [Download do arquivo .pbix](./Projeto%20-%20Dashboard%20Performance%20Comercial.pbix)
 * 💾 **Base de Dados:** Processada via SQL (SQLite) para análise de rentabilidade.
 
