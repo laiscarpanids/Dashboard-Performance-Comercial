@@ -24,7 +24,7 @@ Nesta etapa, os insights do dashboard foram desdobrados em um plano tático. Uti
 
 ---
 
-## 📈 Principais Indicadores (KPIs)
+## Principais Indicadores (KPIs)
 * **Margem Bruta:** Monitoramento por categoria e canal.
 * **Saúde Operacional:** Visão de custos e lucratividade.
 * **Performance Comercial:** Análise de giro e faturamento.
